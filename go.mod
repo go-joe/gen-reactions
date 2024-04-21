@@ -8,5 +8,5 @@ require (
 	github.com/onsi/gomega v1.7.0 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/serenize/snaker v0.0.0-20171204205717-a683aaf2d516
-	golang.org/x/net v0.17.0
+	golang.org/x/net v0.23.0
 )
